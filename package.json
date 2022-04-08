@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "readline": "^1.3.0"
+  },
+  "name": "drone-project",
+  "description": "I want to try to fly the drone in a certain space, and get it to work. Also, I want to program it.",
+  "version": "1.0.0",
+  "main": "telloChristian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdurmeyer/Drone-Project.git"
+  },
+  "author": "Christian Durmeyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdurmeyer/Drone-Project/issues"
+  },
+  "homepage": "https://github.com/cdurmeyer/Drone-Project#readme"
+}
